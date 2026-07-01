@@ -1,0 +1,11 @@
+{
+  "name": "cabinet-door-domain-prototypes",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static prototype sites for cabinet door domains plus photo-calibrated custom estimate tool.",
+  "scripts": {
+    "test": "node tests/estimator.test.js",
+    "serve": "python3 -m http.server 4173"
+  },
+  "devDependencies": {}
+}
